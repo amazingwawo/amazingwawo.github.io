@@ -1,11 +1,4 @@
- #;_;
-
-
-
-
-
- amazingwawo.github.io
- 
+# ;_;
  
  
  ;_;
